@@ -59,3 +59,19 @@
         #git
             svg
                 color: #E44D26
+
+@media (max-width: 480px)
+        .technologies-card 
+            @include mixins.center 
+            gap: 1rem
+            padding: 1rem 
+            border: 1px solid #333
+            width: 30%
+            border-radius: variables.$card-border-radius
+
+            h3 
+                color: variables.$text-color 
+                margin-bottom: 1rem
+
+            svg
+                font-size: 3rem

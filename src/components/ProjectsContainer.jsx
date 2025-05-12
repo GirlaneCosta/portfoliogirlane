@@ -2,7 +2,7 @@ const ProjectsContainer = () => {
   return (
     <section className="projects-container">
       <h2>Projetos</h2>
-      <p>Explicação dos projetos ja criados Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos cumque nesciunt accusantium blanditiis ab voluptatem aperiam fuga nulla! Nam provident quae quaerat quisquam recusandae necessitatibus ipsam hic possimus, architecto praesentium!</p>
+      <p>Aqui você encontrará alguns dos projetos que desenvolvi com dedicação, criatividade e foco em boas práticas de código. Cada um deles representa um desafio superado e uma oportunidade de aplicar e aprimorar minhas habilidades em desenvolvimento front-end. Clique para conhecer melhor minhas soluções, tecnologias utilizadas e veja meu estilo de codar na prática.</p>
       <a href="/projetos" className='btn'>
         ver projetos
       </a>
