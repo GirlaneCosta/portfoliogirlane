@@ -1,12 +1,32 @@
-# React + Vite
+# Portfólio Pessoal - Girlane de Oliveira Costa 👩‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido com o objetivo de compartilhar um pouco sobre mim, meus projetos e minha trajetória como desenvolvedora em formação.
 
-Currently, two official plugins are available:
+🔗 **Acesse online:** [girlaneoliveiracosta.com.br](https://www.girlaneoliveiracosta.com.br/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Sobre mim
 
-## Expanding the ESLint configuration
+Estou dando meus primeiros passos no mundo da programação e criando este portfólio como uma forma de colocar em prática o que venho aprendendo. Gosto de ver as coisas funcionando, aprender com os desafios e, principalmente, evoluir um pouco mais a cada projeto.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+📌 Funcionalidades
+
+Apresentação pessoal
+
+Projetos realizados
+
+Contato direto
+
+Responsividade para dispositivos móveis
+
+🚧 Melhorias futuras
+
+Adição de novos projetos
+
+Versão multilíngue
