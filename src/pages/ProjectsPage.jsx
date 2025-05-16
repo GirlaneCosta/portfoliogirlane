@@ -21,6 +21,12 @@ const projects = [
     image: "lojaoimage.png",
     link: "https://www.lojaotorratorra.online/"                                                          
   },
+  {
+    title: "Conversor de Texto para Fala",
+    description: "Este projeto é uma aplicação web simples e interativa que transforma texto escrito em fala utilizando a API Web Speech do navegador. O usuário pode digitar manualmente ou carregar um arquivo .txt, escolher entre diferentes vozes disponíveis e escutar o conteúdo em tempo real.",
+    image: "conversorimage.png",
+    link: "https://github.com/GirlaneCosta/Conversor-de-Texto-para-Fala"                                                          
+  },
 ];
 
 function ProjectsPage() {
