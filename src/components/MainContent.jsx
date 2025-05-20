@@ -5,11 +5,13 @@ import TechnologiesContainer from "./TechnologiesContainer";
 import "../styles/components/maincontent.sass";
 
 const MainContent = () => {
-  return <main id="main-content">
-    <AboutContainer />
-    <TechnologiesContainer />
-    <ProjectsContainer />
-  </main>;
+  return (
+    <main id="main-content">
+      <AboutContainer />
+      <TechnologiesContainer />
+      <ProjectsContainer />
+    </main>
+  );
 };
 
 export default MainContent;
