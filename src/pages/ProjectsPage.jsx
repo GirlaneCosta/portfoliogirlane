@@ -14,10 +14,10 @@ const projects = [
   {
     title: "Agropet Shop Machado",
     description:
-      "O site oferece produtos e serviços para pets. Ele apresenta um layout moderno e responsivo com um header com logomarca, barra de pesquisa e navegação intuitiva que permite filtrar por categorias (como Banhos & Tosa, Produtos e Promoções). O design se adapta bem a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops. ",
+      "O site oferece produtos e serviços para pets. Ele apresenta um layout moderno e responsivo com um header com logomarca, navegação intuitiva que permite filtrar por categorias (como Banhos, Tosa e Produtos). O design se adapta bem a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops. ",
     image: "agroimage.png",
     link: "https://www.agropetshopmachado.online/",
-    linkgit: "",
+    linkgit: "https://github.com/GirlaneCosta/AgropetShop-machado",
   },
   {
     title: "Lojão Torra Torra",
