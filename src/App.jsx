@@ -16,7 +16,7 @@ function AppContent() {
 
   return (
     <div id="portfolio">
-      <h1>Girlane de Oliveira Costa</h1>
+      {isHome && <h1>Girlane de Oliveira Costa</h1>}
       {isHome && <Sidebar />}
       <Routes>
         <Route path="/" element={<MainContent />} />
