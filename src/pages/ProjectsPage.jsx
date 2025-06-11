@@ -4,7 +4,7 @@ import { FaHome } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Smart Systems",
+    title: "Smart CFTV",
     description:
       "O site oferece uma interface intuitiva para contato, apresenta uma galeria completa com os serviços já realizados pela empresa e conta com uma seção dedicada à exibição de todos os serviços fornecidos, incluindo câmeras e equipamentos para segurança residencial. O design se adapta bem a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops. 🔧 Tecnologias Utilizadas: HTML5, CSS3, JavaScript, React, Vite, Git & GitHub.",
     image: "smartimage.png",
